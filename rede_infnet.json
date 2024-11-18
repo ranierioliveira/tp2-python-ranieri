@@ -1,0 +1,233 @@
+[
+    {
+        "nome": "Ranieri",
+        "idade": "22",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "amigos": "Sem amigos cadastrados"
+    },
+    {
+        "nome": "Maria",
+        "idade": "20",
+        "cidade": "Jaguaríuna",
+        "estado": "SP",
+        "amigos": "Lizandra"
+    },
+    {
+        "nome": "João",
+        "idade": "32",
+        "cidade": "Hortolândia",
+        "estado": "SP",
+        "amigos": "Sem amigos cadastrados"
+    },
+    {
+        "nome": "Geovana",
+        "idade": "21",
+        "cidade": "Sumaré",
+        "estado": "SP",
+        "amigos": "Sem amigos cadastrados"
+    },
+    {
+        "nome": "Jorge",
+        "idade": "28",
+        "cidade": "Valinhos",
+        "estado": "SP",
+        "amigos": "Sem amigos cadastrados"
+    },
+    {
+        "nome": "João",
+        "idade": "25",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "amigos": "Ana, Carlos, Marcos"
+    },
+    {
+        "nome": "Ana",
+        "idade": "22",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "amigos": "João, Fernanda"
+    },
+    {
+        "nome": "Carlos",
+        "idade": "30",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "amigos": "João, Marcos, Caio"
+    },
+    {
+        "nome": "Fernanda",
+        "idade": "28",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "amigos": "Ana"
+    },
+    {
+        "nome": "Marcos",
+        "idade": "27",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "amigos": "João, Carlos"
+    },
+    {
+        "nome": "Clara",
+        "idade": "26",
+        "cidade": "Brasília",
+        "estado": "DF",
+        "amigos": "Fernanda, Lívia"
+    },
+    {
+        "nome": "Lívia",
+        "idade": "24",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "amigos": "Clara, Lucas, Marcos"
+    },
+    {
+        "nome": "Lucas",
+        "idade": "31",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "amigos": "Lívia, Fernando"
+    },
+    {
+        "nome": "Fernando",
+        "idade": "29",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "amigos": "Lucas, Aline"
+    },
+    {
+        "nome": "Aline",
+        "idade": "23",
+        "cidade": "Florianópolis",
+        "estado": "SC",
+        "amigos": "Fernando, Caio, Clara"
+    },
+    {
+        "nome": "Caio",
+        "idade": "27",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "amigos": "Aline, Clara"
+    },
+    {
+        "nome": "Sofia",
+        "idade": "21",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "amigos": "Rafaela, Fernanda"
+    },
+    {
+        "nome": "Rafaela",
+        "idade": "22",
+        "cidade": "Recife",
+        "estado": "PE",
+        "amigos": "Sofia, Clara"
+    },
+    {
+        "nome": "Mateus",
+        "idade": "32",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "amigos": "Caio, Fernando, João"
+    },
+    {
+        "nome": "Tiago",
+        "idade": "28",
+        "cidade": "Brasília",
+        "estado": "DF",
+        "amigos": "Mateus, Lívia, Aline"
+    },
+    {
+        "nome": "Juliana",
+        "idade": "25",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "amigos": "Rafaela, Sofia, Marcos"
+    },
+    {
+        "nome": "Pedro",
+        "idade": "26",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "amigos": "João, Aline"
+    },
+    {
+        "nome": "Amanda",
+        "idade": "24",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "amigos": "Pedro, Caio, Lívia"
+    },
+    {
+        "nome": "Bruno",
+        "idade": "30",
+        "cidade": "Cuiabá",
+        "estado": "MT",
+        "amigos": "Ana, Marcos, Mateus"
+    },
+    {
+        "nome": "Carla",
+        "idade": "29",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "amigos": "Fernando, Tiago, Lucas"
+    },
+    {
+        "nome": "Gabriela",
+        "idade": "27",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "amigos": "Carla, Aline, Rafaela"
+    },
+    {
+        "nome": "Thiago",
+        "idade": "31",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "amigos": "João, Amanda, Lucas, Clara"
+    },
+    {
+        "nome": "Renata",
+        "idade": "23",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "amigos": "Clara, Fernando, Sofia"
+    },
+    {
+        "nome": "Leonardo",
+        "idade": "29",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "amigos": "Renata, Mateus, Caio"
+    },
+    {
+        "nome": "Camila",
+        "idade": "28",
+        "cidade": "Niterói",
+        "estado": "RJ",
+        "amigos": "Juliana, Bruno, Lucas, Caio"
+    },
+    {
+        "nome": "Felipe",
+        "idade": "27",
+        "cidade": "Brasília",
+        "estado": "DF",
+        "amigos": "Renata, Carla"
+    },
+    {
+        "nome": "Mariana",
+        "idade": "30",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "amigos": "Felipe, Lívia, Fernando"
+    },
+    {
+        "nome": "Daniel",
+        "idade": "25",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "amigos": "Camila, Paulo, Amanda"
+    }
+]

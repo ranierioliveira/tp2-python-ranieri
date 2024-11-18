@@ -1,0 +1,33 @@
+Nome: Ranieri, Idade: 22, Cidade: Campinas, Estado: SP, Amigos: Sem amigos cadastrados
+Nome: Maria, Idade: 20, Cidade: Jaguaríuna, Estado: SP, Amigos: Lizandra
+Nome: João, Idade: 32, Cidade: Hortolândia, Estado: SP, Amigos: Sem amigos cadastrados
+Nome: Geovana, Idade: 21, Cidade: Sumaré, Estado: SP, Amigos: Sem amigos cadastrados
+Nome: Jorge, Idade: 28, Cidade: Valinhos, Estado: SP, Amigos: Sem amigos cadastrados
+Nome: João, Idade: 25, Cidade: Rio de Janeiro, Estado: RJ, Amigos: Ana, Carlos, Marcos
+Nome: Ana, Idade: 22, Cidade: São Paulo, Estado: SP, Amigos: João, Fernanda
+Nome: Carlos, Idade: 30, Cidade: Belo Horizonte, Estado: MG, Amigos: João, Marcos, Caio
+Nome: Fernanda, Idade: 28, Cidade: Curitiba, Estado: PR, Amigos: Ana
+Nome: Marcos, Idade: 27, Cidade: Porto Alegre, Estado: RS, Amigos: João, Carlos
+Nome: Clara, Idade: 26, Cidade: Brasília, Estado: DF, Amigos: Fernanda, Lívia
+Nome: Lívia, Idade: 24, Cidade: São Paulo, Estado: SP, Amigos: Clara, Lucas, Marcos
+Nome: Lucas, Idade: 31, Cidade: Salvador, Estado: BA, Amigos: Lívia, Fernando
+Nome: Fernando, Idade: 29, Cidade: Fortaleza, Estado: CE, Amigos: Lucas, Aline
+Nome: Aline, Idade: 23, Cidade: Florianópolis, Estado: SC, Amigos: Fernando, Caio, Clara
+Nome: Caio, Idade: 27, Cidade: Curitiba, Estado: PR, Amigos: Aline, Clara
+Nome: Sofia, Idade: 21, Cidade: Campinas, Estado: SP, Amigos: Rafaela, Fernanda
+Nome: Rafaela, Idade: 22, Cidade: Recife, Estado: PE, Amigos: Sofia, Clara
+Nome: Mateus, Idade: 32, Cidade: Rio de Janeiro, Estado: RJ, Amigos: Caio, Fernando, João
+Nome: Tiago, Idade: 28, Cidade: Brasília, Estado: DF, Amigos: Mateus, Lívia, Aline
+Nome: Juliana, Idade: 25, Cidade: São Paulo, Estado: SP, Amigos: Rafaela, Sofia, Marcos
+Nome: Pedro, Idade: 26, Cidade: Belo Horizonte, Estado: MG, Amigos: João, Aline
+Nome: Amanda, Idade: 24, Cidade: Porto Alegre, Estado: RS, Amigos: Pedro, Caio, Lívia
+Nome: Bruno, Idade: 30, Cidade: Cuiabá, Estado: MT, Amigos: Ana, Marcos, Mateus
+Nome: Carla, Idade: 29, Cidade: Salvador, Estado: BA, Amigos: Fernando, Tiago, Lucas
+Nome: Gabriela, Idade: 27, Cidade: Fortaleza, Estado: CE, Amigos: Carla, Aline, Rafaela
+Nome: Thiago, Idade: 31, Cidade: São Paulo, Estado: SP, Amigos: João, Amanda, Lucas, Clara
+Nome: Renata, Idade: 23, Cidade: Curitiba, Estado: PR, Amigos: Clara, Fernando, Sofia
+Nome: Leonardo, Idade: 29, Cidade: Campinas, Estado: SP, Amigos: Renata, Mateus, Caio
+Nome: Camila, Idade: 28, Cidade: Niterói, Estado: RJ, Amigos: Juliana, Bruno, Lucas, Caio
+Nome: Felipe, Idade: 27, Cidade: Brasília, Estado: DF, Amigos: Renata, Carla
+Nome: Mariana, Idade: 30, Cidade: Porto Alegre, Estado: RS, Amigos: Felipe, Lívia, Fernando
+Nome: Daniel, Idade: 25, Cidade: Rio de Janeiro, Estado: RJ, Amigos: Camila, Paulo, Amanda
